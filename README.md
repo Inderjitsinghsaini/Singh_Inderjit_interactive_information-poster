@@ -5,7 +5,7 @@ express
 
 ## Usage
 
-```npm install to install dependencies
+npm install to install dependencies
 
 NPM start to start the app.
 
